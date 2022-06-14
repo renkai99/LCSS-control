@@ -1,6 +1,6 @@
 # LCSS-control
 
-The code snippets are used for reproducing the trajectory planning simulations in the L-CSS paper:
+The MATLAB code snippets are used for reproducing the trajectory planning simulations in the L-CSS paper:
 
 K. Ren, H. Ahn, and M. Kamgarpour, “Chance-Constrained Motion Planning with Multimodal Environmental Uncertainty,” IEEE Control Systems Letters, 2022.
 
