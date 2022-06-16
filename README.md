@@ -14,7 +14,7 @@ The following dependencies need to be installed/configured and must be on the MA
 
 ## Instructions
 
-
+After installing the dependencies, simply run **main.m**.
 
 ## References of the work
 Please cite the original paper when using any part of this code. BibTeX citation data:
