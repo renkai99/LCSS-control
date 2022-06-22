@@ -12,6 +12,8 @@ The following dependencies need to be installed/configured and must be on the MA
 
 [MagInset](https://www.mathworks.com/matlabcentral/fileexchange/49055-maginset)
 
+MATLAB Toolbox: [Control System](https://www.mathworks.com/products/control.html), [Statistics](https://www.mathworks.com/products/statistics.html), and [Optimization](https://www.mathworks.com/products/optimization.html)
+
 ## Instructions
 
 After installing the dependencies, simply run **main.m**.
