@@ -70,7 +70,7 @@ run plot_trajectories  % In case you prefer the two-Figure plot shown in the pap
 % [worst_coeff_CVaR, worst_param_CVaR] = montecarlo_worstCase(params, OV, car_states_CVaR);
 % [worst_coeff_CVaRR, worst_param_CVaRR] = montecarlo_worstCase(params, OV, car_states_CVaR);
 
-%% Monte_carlo with new predictions
+%% Monte_carlo with new predictions (Only works for Scene 1)
 % [rate_viol_MTA, viol_amt_MTA] = montecarlo_newpred(params, car_states_MTA);
 % [rate_viol_MRA, viol_amt_MRA] = montecarlo_newpred(params, car_states_MRA);
 % [rate_viol_CVaR, viol_amt_CVaR] = montecarlo_newpred(params, car_states_CVaR);
