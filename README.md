@@ -33,7 +33,7 @@ Please cite the original paper when using any part of this code. BibTeX citation
    pages={1142–1147}
 }
 
-@ARTICLE{9805817,
+@ARTICLE{Ren_2023_LCSS,
   author={Ren, Kai and Ahn, Heejin and Kamgarpour, Maryam},
   journal={IEEE Control Systems Letters}, 
   title={Chance-Constrained Trajectory Planning With Multimodal Environmental Uncertainty}, 
